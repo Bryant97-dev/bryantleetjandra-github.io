@@ -551,7 +551,9 @@ margin:0;
 	margin-left:-300px;
 }
 
-
+.new info{
+	display:none;	
+}
   .row-test {
     flex-direction: column;
   }
