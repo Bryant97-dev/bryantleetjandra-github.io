@@ -552,7 +552,7 @@ margin:0;
 }
 
 .new info{
-	display:none;	
+	display:none !important;	
 }
   .row-test {
     flex-direction: column;
